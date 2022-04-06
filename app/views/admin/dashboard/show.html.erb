@@ -1,2 +1,17 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<h1>Admin Dashboard</h1>
+<table class = "table">
+  <tr class="alert alert-success">
+      <th scope="col" class= "product_count_text">
+        <%= link_to 'Product Count', controller: 'admin/products' %>
+      </th>
+      <th scope="col" class= "category_count_text">
+        <%= link_to 'Category Count', controller: 'admin/products' %>
+      </th>
+  </tr>
+  <tbody>
+    <tr class="alert alert-info">
+      <td class="product_value"><%= @product_count %></td>
+      <td class="category_value"><%= @category_count %></td>
+    </tr>
+  </tbody>
+</table>
