@@ -13,12 +13,12 @@ RSpec.feature "users can login successfully and are taken to the home page once 
   scenario "They see logged in following login" do
     # ACT
     visit root_path
-    puts page.html
+    # puts page.html
     click_link("Login")
     sleep 5
     # DEBUG
     
-    puts page.html
+    # puts page.html
     fill_in 'email', with: 'test@test.com'
     fill_in 'password', with: 'test123'
     click_button("Submit")
