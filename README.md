@@ -13,15 +13,15 @@ Testing - RSpec, Poltergeist/Capybara
 
 # Final Product
 
-!["Homepage"]()
+!["Homepage"](https://github.com/JamesMurphyy/jungle-rails/blob/master/docs/Homepage.PNG)
 
-!["My Cart"]()
+!["My Cart"](https://github.com/JamesMurphyy/jungle-rails/blob/master/docs/My%20Cart%20Page.PNG)
 
-!["Payment Information"]()
+!["Payment Information"](https://github.com/JamesMurphyy/jungle-rails/blob/master/docs/Payment%20Page.PNG)
 
-!["Confirmed Order"]()
+!["Confirmed Order"](https://github.com/JamesMurphyy/jungle-rails/blob/master/docs/Confirmed%20Orders%20Page.PNG)
 
-!["Admin Products"]()
+!["Admin Products"](https://github.com/JamesMurphyy/jungle-rails/blob/master/docs/Admin%20All%20Products%20Page.PNG)
 
 
 ## Additional Steps for Apple M1 Machines
