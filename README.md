@@ -1,6 +1,28 @@
 # Jungle
 
-A mini e-commerce application built with Rails 4.2 for purposes of teaching Rails by example.
+- A mini e-commerce application built with Rails 4.2 -- utilizing Ruby and Rails practices. 
+
+ - This web application allows users to shop different categories and products with the ability to place or submit orders. Admins for the site have the ability to add or delete products and categories.
+
+# Stack
+
+Front End - HTML, SCSS and JS
+Back End -  Ruby on Rails and PostgreSQL
+Testing - RSpec, Poltergeist/Capybara
+
+
+# Final Product
+
+!["Homepage"]()
+
+!["My Cart"]()
+
+!["Payment Information"]()
+
+!["Confirmed Order"]()
+
+!["Admin Products"]()
+
 
 ## Additional Steps for Apple M1 Machines
 
