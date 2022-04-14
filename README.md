@@ -6,9 +6,9 @@
 
 # Stack
 
-Front End - HTML, SCSS and JS
-Back End -  Ruby on Rails and PostgreSQL
-Testing - RSpec, Poltergeist/Capybara
+- Front End - HTML, SCSS and JS
+- Back End -  Ruby on Rails and PostgreSQL
+- Testing - RSpec, Poltergeist/Capybara
 
 
 # Final Product
