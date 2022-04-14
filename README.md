@@ -2,7 +2,7 @@
 
 - A mini e-commerce application built with Rails 4.2 -- utilizing Ruby and Rails practices. 
 
- - This web application allows users to shop different categories and products with the ability to place or submit orders. Admins for the site have the ability to add or delete products and categories.
+ - This web application allows users to to place or submit orders of different categories and products. Admins for the site have the ability to add or delete products and categories as well.
 
 # Stack
 
